@@ -46,6 +46,7 @@ a {
   color: inherit;
 }
 
+/* utility classes */
 
 .flex-center {
   display: flex;
